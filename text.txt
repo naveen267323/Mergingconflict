@@ -1,3 +1,4 @@
 this is the first line from master
 this is the second line from master
 this is the line from master
+this is the line from child
